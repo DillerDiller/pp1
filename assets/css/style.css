@@ -10,3 +10,15 @@ header{
     padding: 100px;
     border:none;
 }
+#menu{
+    font-family: Raleway, sans-serif;
+    list-style-type: none;
+    padding: 25px;
+    background-color: #B0E0E0;
+    color: #811331;
+}
+#menu li{
+    margin-top:5em;
+    margin-bottom: 5em;
+}
+p{text-align: center;}
