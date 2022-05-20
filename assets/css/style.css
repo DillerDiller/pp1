@@ -37,9 +37,11 @@ header{
 }
 
 #right-side{
+    font-family: Roboto, sans-serif;
     text-align: center;
     padding-top: 1px;
     width: 67%;
     float:right;
     background-color: #B0E0E0;
+    color: white;
 }
