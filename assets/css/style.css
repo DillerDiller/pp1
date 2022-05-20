@@ -16,6 +16,11 @@ header{
     padding: 25px;
     background-color: #B0E0E0;
     color: #811331;
+    font-size:150%;
+}
+#menu a{  
+    color: #811331;
+    text-decoration: none;
 }
 #menu li{
     margin-top:5em;
