@@ -25,5 +25,21 @@ header{
 #menu li{
     margin-top:5em;
     margin-bottom: 5em;
+    text-align: left;
 }
-p{text-align: center;}
+
+
+#left-side{
+    padding-top: 1px;
+    width: 33%;
+    float:left;
+    background-color: #B0E0E0;
+}
+
+#right-side{
+    text-align: center;
+    padding-top: 1px;
+    width: 67%;
+    float:right;
+    background-color: #B0E0E0;
+}
