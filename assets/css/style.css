@@ -23,15 +23,21 @@ header{
     text-decoration: none;
 }
 #menu li{
-    margin-top:5em;
-    margin-bottom: 5em;
+    margin-top:2.5em;
+    margin-bottom: 2.5em;
     text-align: left;
+}
+#menu li:hover{
+    display: block;
+    color:white;
+    background-color: white;
+    
 }
 
 
 #left-side{
     padding-top: 1px;
-    width: 33%;
+    width: 25%;
     float:left;
     background-color: #B0E0E0;
 }
@@ -40,8 +46,9 @@ header{
     font-family: Roboto, sans-serif;
     text-align: center;
     padding-top: 1px;
-    width: 67%;
+    width: 75%;
     float:right;
-    background-color: #B0E0E0;
+    background-color: #811331;
     color: white;
+    margin-bottom: 50px;
 }
