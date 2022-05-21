@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300&family=Roboto&display=swap');
-
+/*These styles are consistent with every page */
 header{
     font-family: Raleway, sans-serif;
     font-size:250%;
@@ -59,4 +59,27 @@ footer{
     margin: 0;
     padding: 50px;
     border:none;
+}
+/*Media Queries */
+
+/* For medium screen sizes from 950px wide and down */
+
+@media screen and(max-width:600px) {
+
+    header{
+        text-align: center;
+        font-size:50em    }
+
+    #menu{
+        clear: both;
+        float: left;
+    }
+    #right-side{
+        float: none;
+        width:50%;
+    }
+    #left-side{
+        float: none;
+        width:50%;
+    }
 }
