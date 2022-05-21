@@ -13,7 +13,7 @@ header{
 #menu{
     font-family: Raleway, sans-serif;
     list-style-type: none;
-    padding: 25px;
+    padding: 40px;
     background-color: #B0E0E0;
     color: #811331;
     font-size:150%;
@@ -23,17 +23,15 @@ header{
     text-decoration: none;
 }
 #menu li{
-    margin-top:2.5em;
-    margin-bottom: 2.5em;
+    margin-top:5em;
+    margin-bottom: 5em;
     text-align: left;
 }
 #menu li:hover{
     display: block;
     color:white;
     background-color: white;
-    
 }
-
 
 #left-side{
     padding-top: 1px;
@@ -51,4 +49,14 @@ header{
     background-color: #811331;
     color: white;
     margin-bottom: 50px;
+}
+footer{
+    font-family: Raleway, sans-serif;
+    font-size:150%;
+    background-color:#811331;
+    color: #B0E0E0;
+    text-align:center;
+    margin: 0;
+    padding: 50px;
+    border:none;
 }
