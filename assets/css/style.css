@@ -95,3 +95,18 @@ footer{
     }
     
 }
+
+/* Media query for screens 1000px and down */
+
+@media screen and (max-width:1000px) {
+    #menu{
+        clear: both;
+        float: left;
+    }
+    img{
+        justify-content: baseline;
+        max-width: 90%;
+        max-height: 70%;
+    }
+  
+}
