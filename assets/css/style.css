@@ -64,22 +64,34 @@ footer{
 
 /* For medium screen sizes from 950px wide and down */
 
-@media screen and(max-width:600px) {
+@media screen and (max-width:600px) {
 
     header{
         text-align: center;
-        font-size:50em    }
+        font-size:100%    }
 
     #menu{
         clear: both;
         float: left;
     }
     #right-side{
+        margin: auto;
+        width: 100%;
         float: none;
-        width:50%;
+        text-align: center;
+        justify-content: right;
     }
     #left-side{
         float: none;
-        width:50%;
+        width:25%;
     }
+    #menu{
+        font-size: 100%;
+    }
+    img{
+        justify-content: baseline;
+        max-width: 90%;
+        max-height: 70%;
+    }
+    
 }
