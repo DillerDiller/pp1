@@ -29,3 +29,6 @@ My site is targeted at people who like History and places that aren't as mainstr
 <td><img width="218" alt="Nav links for pp1 reacting" src="https://user-images.githubusercontent.com/104259989/169685955-2614e14f-16fc-4fe8-b23a-71d4965009da.png"></td>
   </tr>
   </table>
+
+* Header
+ * The header is the first thing you see when you open the page and straight away lets the user know what this site is about.
