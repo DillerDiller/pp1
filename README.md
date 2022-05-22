@@ -109,9 +109,12 @@ My site is targeted at people who like History and places that aren't as mainstr
 * My source code for GitHub can be found here - https://github.com/DillerDiller/pp1
 
 ## Credits ##
-* Content
+### Content ##
    * The text for the home page was taken from this link - https://en.wikipedia.org/wiki/Drogheda
    * The text for the St. Laurence's Gate page was taken from this link - https://www.discoverboynevalley.ie/boyne-valley-drive/heritage-sites/st-laurences-gate-drogheda-walls
    * The text for the St. Dominic's Bridge page was taken from this link - https://www.independent.ie/regionals/droghedaindependent/news/old-view-from-st-dominics-bridge-27157241.html#:~:text=THE%20oldest%20pedestrian%20bridge%20crossing,of%20Thomas%20Grendon's%20Iron%20Foundry.
    * The text for the Millmount page was taken from this link - https://www.drogheda.ie/explore-and-do/explore/castles-and-conquests/millmount.html
-   * 
+   * I also used a youtube video as a guide for Media Queries - https://www.youtube.com/watch?v=yU7jJ3NbPdA
+
+### Media ###
+
