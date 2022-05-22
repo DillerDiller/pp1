@@ -6,6 +6,18 @@ My site is targeted at people who like History and places that aren't as mainstr
 
 <img width="937" alt="amiresponsive" src="https://user-images.githubusercontent.com/104259989/169685373-5e9e3730-f0aa-4a91-a332-ceeab0d0cf0d.png">
 
+## User Stories ##
+### External User's Goals: ###
+* To find information from a reliable source.
+* To find the information easily.
+* To see a photo of the landmark.
+* To sign up for more information if interested.
+
+### Site Owner's Goals: ###
+* To have an attractive looking website.
+* To have an easily accessible website.
+* To have users to return or sign up.
+
 
 ## Features
 
