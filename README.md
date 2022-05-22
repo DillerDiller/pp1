@@ -24,11 +24,32 @@ My site is targeted at people who like History and places that aren't as mainstr
   </tr>
 <tr>
 <td><img width="231" alt="Nav links for pp1" src="https://user-images.githubusercontent.com/104259989/169685945-b46fdfbe-a3f0-40fe-98ac-34a68c6426f1.png"></td>
-
-
 <td><img width="218" alt="Nav links for pp1 reacting" src="https://user-images.githubusercontent.com/104259989/169685955-2614e14f-16fc-4fe8-b23a-71d4965009da.png"></td>
   </tr>
   </table>
 
 * Header
   * The header is the first thing you see when you open the page and straight away lets the user know what this site is about.
+
+<img width="790" alt="Header for pp1" src="https://user-images.githubusercontent.com/104259989/169686442-a1c45797-3694-48fe-b841-8cf1b21c28da.png">
+
+* Footer 
+   * The footer on the site trys to engage to user with a form.
+   * It signs the user up for more information.(Could be a newsletter)
+   * The form collects the users email address.
+   * The form also has an action page so the user feels satisfaction after submitting.
+   * The action page opens in a new tab for convenience.
+
+<table>
+  <tr>
+    <td>Footer</td>
+    <td>Thank you message after submitting form</td>
+  </tr>
+<tr>
+<td><img width="665" alt="Footer of pp1" src="https://user-images.githubusercontent.com/104259989/169687573-2b9aa010-7836-422e-9bee-4cb8de894652.png">
+</td>
+<td><img width="554" alt="Thank you page pp1" src="https://user-images.githubusercontent.com/104259989/169687589-6d43d043-85ea-4a7c-83e5-37520c00b1a3.png">
+</td>
+  </tr>
+  </table>
+
