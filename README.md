@@ -9,7 +9,7 @@ My site is targeted at people who like History and places that aren't as mainstr
 
 ## Features
 
-* Navigation
+### Navigation ###
    * Navigation is placed on the left-hand side of the page.
    * My links are Home, St. Laurence's Gate, St. Dominic's Bridge and Millmount
    * The navigation background contrasts with the text color.
@@ -28,12 +28,12 @@ My site is targeted at people who like History and places that aren't as mainstr
   </tr>
   </table>
 
-* Header
+### Header ###
   * The header is the first thing you see when you open the page and straight away lets the user know what this site is about.
 
 <img width="790" alt="Header for pp1" src="https://user-images.githubusercontent.com/104259989/169686442-a1c45797-3694-48fe-b841-8cf1b21c28da.png">
 
-* Footer 
+### Footer ###
    * The footer on the site trys to engage to user with a form.
    * It signs the user up for more information.(Could be a newsletter)
    * The form collects the users email address.
@@ -53,7 +53,7 @@ My site is targeted at people who like History and places that aren't as mainstr
   </tr>
   </table>
 
-* Content
+### Content ###
    * Content on each page changes to do with each landmark.
    * There is text and an image on each page.
    * I wanted to give some information on the landmark's history and a photo to show the landmark.
@@ -65,34 +65,34 @@ My site is targeted at people who like History and places that aren't as mainstr
 * I can confirm that each of the navigation links work as they should.
 * I can also confirm the the form action page works in another tab.
 
-* Validator Testing
+### Validator Testing ###
   * When validating my site I got errors from HTML and CSS.
   * I used WSC Validator for my HTML.
   * I used Jigsaw to validate my CSS.
   * I used lighthouse on Google Chrome to validate accessibility.
 
-* HTML
+### HTML ###
    * I had received an error and a warning with my HTML code:
 <img width="914" alt="error + warning" src="https://user-images.githubusercontent.com/104259989/169688505-04523b80-eaad-44d8-a813-f3e05c37035e.png">
 
-* HTML
+### HTML ###
    * I then went back to my HTML and fixed the error.
    * I plan on going back to fix the warning.
  <img width="919" alt="error in html fixed" src="https://user-images.githubusercontent.com/104259989/169688579-8833bd24-6f2d-43fc-a678-f32c40741eb5.png">
 
-* CSS
+### CSS ###
    * I had received an issue with some CSS code:
  <img width="914" alt="error in css" src="https://user-images.githubusercontent.com/104259989/169688786-f305e8ed-cb2c-4896-864f-889e88be0144.png">
 
-* CSS
+### CSS ###
   * I then went back to my CSS code and fixed the issue.
  <img width="924" alt="error in css fixed" src="https://user-images.githubusercontent.com/104259989/169688835-e60c4b87-da4a-479d-899e-b8d29589a6ba.png">
 
-* Google Chrome Lighthouse:
+### Google Chrome Lighthouse: ###
 <img width="526" alt="lighthouse of pp1" src="https://user-images.githubusercontent.com/104259989/169689054-f76e6ea7-2a16-4af3-912f-50ce4c80c21f.png">
 
 
-* Unfixed bugs
+### Unfixed bugs ###
   * I have a warning in HTML to address.
   * I also have an issue to address in my CSS code.
 
@@ -117,4 +117,9 @@ My site is targeted at people who like History and places that aren't as mainstr
    * I also used a youtube video as a guide for Media Queries - https://www.youtube.com/watch?v=yU7jJ3NbPdA
 
 ### Media ###
-
+* The links for the images are below:
+* Home Page - https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/drogheda-featured-image.jpg
+* St. Laurence's Gate - https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/st-laurences-gate-and-drogheda-walls-featured-image.jpg
+* St. Dominic's Bridge - https://droghedalife.com/images/Dominics_Bridge01.jpg
+* Millmount - https://www.discoverboynevalley.ie/sites/default/files/heritage-sites/drogheda-museum-millmount-featured-image.jpg
+* The icon used in the Thank you page is from - https://fontawesome.com/
