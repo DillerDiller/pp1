@@ -53,3 +53,24 @@ My site is targeted at people who like History and places that aren't as mainstr
   </tr>
   </table>
 
+* Content
+   * Content on each page changes to do with each landmark.
+   * There is text and an image on each page.
+   * I wanted to give some information on the landmark's history and a photo to show the landmark.
+
+## Testing ##
+
+* I tested that this page works on different browers, Chrome and Firefox and also different mobile devices, Iphone and Andriod.
+* I tested that the site is responsive and looks acceptable on different screen sizes.
+* I can confirm that each of the navigation links work as they should.
+* I can also confirm the the form action page works in another tab.
+
+* Validator Testing
+  * When validating my site I got errors from HTML and CSS.
+
+* HTML
+   * I had received an error and a warning with my HTML code:
+<img width="914" alt="error + warning" src="https://user-images.githubusercontent.com/104259989/169688505-04523b80-eaad-44d8-a813-f3e05c37035e.png">
+   * I then went back to my HTML and fixed the error.
+   * I plan on going back to fix the warning.
+ <img width="919" alt="error in html fixed" src="https://user-images.githubusercontent.com/104259989/169688579-8833bd24-6f2d-43fc-a678-f32c40741eb5.png">
