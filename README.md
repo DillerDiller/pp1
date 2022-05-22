@@ -10,4 +10,14 @@ My site is targeted at people who like History and places that aren't as mainstr
 ## Features
 
 * Navigation
-   * hvdhvhdvhf
+   * Navigation is placed on the left-hand side of the page.
+   * My links are Home, St. Laurence's Gate, St. Dominic's Bridge and Millmount
+   * The navigation background contrasts with the text color.
+   * The links also react as the user hovers over it.
+   * The links are also spaced out so they are easy to read.
+   * The navigation links are easy to use for the user.
+
+<img width="231" alt="Nav links for pp1" src="https://user-images.githubusercontent.com/104259989/169685945-b46fdfbe-a3f0-40fe-98ac-34a68c6426f1.png">
+
+
+<img width="218" alt="Nav links for pp1 reacting" src="https://user-images.githubusercontent.com/104259989/169685955-2614e14f-16fc-4fe8-b23a-71d4965009da.png">
