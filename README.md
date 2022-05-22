@@ -31,4 +31,4 @@ My site is targeted at people who like History and places that aren't as mainstr
   </table>
 
 * Header
- * The header is the first thing you see when you open the page and straight away lets the user know what this site is about.
+  * The header is the first thing you see when you open the page and straight away lets the user know what this site is about.
