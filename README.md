@@ -10,4 +10,4 @@ My site is targeted at people who like History and places that aren't as mainstr
 ## Features
 
 * Navigation
-* * hvdhvhdvhf
+ * hvdhvhdvhf
