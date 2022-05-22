@@ -67,6 +67,9 @@ My site is targeted at people who like History and places that aren't as mainstr
 
 * Validator Testing
   * When validating my site I got errors from HTML and CSS.
+  * I used WSC Validator for my HTML.
+  * I used Jigsaw to validate my CSS.
+  * I used lighthouse on Google Chrome to validate accessibility.
 
 * HTML
    * I had received an error and a warning with my HTML code:
@@ -76,3 +79,39 @@ My site is targeted at people who like History and places that aren't as mainstr
    * I then went back to my HTML and fixed the error.
    * I plan on going back to fix the warning.
  <img width="919" alt="error in html fixed" src="https://user-images.githubusercontent.com/104259989/169688579-8833bd24-6f2d-43fc-a678-f32c40741eb5.png">
+
+* CSS
+   * I had received an issue with some CSS code:
+ <img width="914" alt="error in css" src="https://user-images.githubusercontent.com/104259989/169688786-f305e8ed-cb2c-4896-864f-889e88be0144.png">
+
+* CSS
+  * I then went back to my CSS code and fixed the issue.
+ <img width="924" alt="error in css fixed" src="https://user-images.githubusercontent.com/104259989/169688835-e60c4b87-da4a-479d-899e-b8d29589a6ba.png">
+
+* Google Chrome Lighthouse:
+<img width="526" alt="lighthouse of pp1" src="https://user-images.githubusercontent.com/104259989/169689054-f76e6ea7-2a16-4af3-912f-50ce4c80c21f.png">
+
+
+* Unfixed bugs
+  * I have a warning in HTML to address.
+  * I also have an issue to address in my CSS code.
+
+## Deployment ##
+* I used GitHub pages on GitHub to deploy my site.
+* I went to my PP1 repository.
+* I went to settings.
+* I clicked the Pages option on the left side of the screen.
+* From the drop down option I clicked main.
+* I then clicked save.
+* The site refreshed with my link.
+* It took a few moments for the link to work.
+* The link can be found below here - https://dillerdiller.github.io/pp1/index.html
+* My source code for GitHub can be found here - https://github.com/DillerDiller/pp1
+
+## Credits ##
+* Content
+   * The text for the home page was taken from this link - https://en.wikipedia.org/wiki/Drogheda
+   * The text for the St. Laurence's Gate page was taken from this link - https://www.discoverboynevalley.ie/boyne-valley-drive/heritage-sites/st-laurences-gate-drogheda-walls
+   * The text for the St. Dominic's Bridge page was taken from this link - https://www.independent.ie/regionals/droghedaindependent/news/old-view-from-st-dominics-bridge-27157241.html#:~:text=THE%20oldest%20pedestrian%20bridge%20crossing,of%20Thomas%20Grendon's%20Iron%20Foundry.
+   * The text for the Millmount page was taken from this link - https://www.drogheda.ie/explore-and-do/explore/castles-and-conquests/millmount.html
+   * 
