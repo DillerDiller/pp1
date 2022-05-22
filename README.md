@@ -17,7 +17,15 @@ My site is targeted at people who like History and places that aren't as mainstr
    * The links are also spaced out so they are easy to read.
    * The navigation links are easy to use for the user.
 
-<img width="231" alt="Nav links for pp1" src="https://user-images.githubusercontent.com/104259989/169685945-b46fdfbe-a3f0-40fe-98ac-34a68c6426f1.png">
+<table>
+  <tr>
+    <td>Navigation Links</td>
+    <td>Navigation Links reacting</td>
+  </tr>
+<tr>
+<td><img width="231" alt="Nav links for pp1" src="https://user-images.githubusercontent.com/104259989/169685945-b46fdfbe-a3f0-40fe-98ac-34a68c6426f1.png"></td>
 
 
-<img width="218" alt="Nav links for pp1 reacting" src="https://user-images.githubusercontent.com/104259989/169685955-2614e14f-16fc-4fe8-b23a-71d4965009da.png">
+<td><img width="218" alt="Nav links for pp1 reacting" src="https://user-images.githubusercontent.com/104259989/169685955-2614e14f-16fc-4fe8-b23a-71d4965009da.png"></td>
+  </tr>
+  </table>
